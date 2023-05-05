@@ -1,0 +1,18 @@
+{
+  "nombre": "matias",
+  "apellido": "villalobos",
+  "fechaDeNacimiento": "1980-11-07T03:00:00.000Z",
+  "dni": 2700005,
+  "salario": 250000,
+  "id": "1e860ad",
+  "materiasQueDicta": [
+    {
+      "nombre": "Tutoria",
+      "id": "jf57"
+    },
+    {
+      "nombre": "Turismo",
+      "id": "sa87"
+    }
+  ]
+}

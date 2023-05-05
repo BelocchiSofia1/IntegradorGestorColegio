@@ -1,0 +1,55 @@
+{
+  "nombre": "juan",
+  "apellido": "perez",
+  "fechaDeNacimiento": "1885-11-04T03:53:48.000Z",
+  "dni": 2566997,
+  "id": "9a1247e",
+  "curso": {
+    "nombre": "Sexto",
+    "materias": [
+      {
+        "nombre": "Ntics",
+        "id": "wd07"
+      },
+      {
+        "nombre": "Fip",
+        "id": "zb18"
+      },
+      {
+        "nombre": "Administracion",
+        "id": "yg28"
+      },
+      {
+        "nombre": "Comunicacion",
+        "id": "pn38"
+      }
+    ]
+  },
+  "materiasMatriculado": [
+    {
+      "nombre": "Ntics",
+      "id": "wd07"
+    },
+    {
+      "nombre": "Fip",
+      "id": "zb18"
+    }
+  ],
+  "notaPorMateria": [
+    {
+      "materia": {
+        "nombre": "Ntics",
+        "id": "wd07"
+      },
+      "nota": 10
+    },
+    {
+      "materia": {
+        "nombre": "Fip",
+        "id": "zb18"
+      },
+      "nota": 8
+    }
+  ],
+  "promedioGeneral": 9
+}

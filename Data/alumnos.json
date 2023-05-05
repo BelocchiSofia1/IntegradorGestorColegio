@@ -1,0 +1,123 @@
+[
+  {
+    "nombre": "sofia",
+    "apellido": "belocchi",
+    "fechaDeNacimiento": null,
+    "dni": 396666,
+    "id": "2855a28",
+    "curso": {
+      "nombre": "Primero",
+      "materias": [
+        {
+          "nombre": "Naturales",
+          "id": "ab16"
+        },
+        {
+          "nombre": "Matematicas",
+          "id": "cd26"
+        },
+        {
+          "nombre": "Fisica",
+          "id": "ef36"
+        },
+        {
+          "nombre": "Anatomia",
+          "id": "gh46"
+        }
+      ]
+    },
+    "materiasMatriculado": [
+      {
+        "nombre": "Naturales",
+        "id": "ab16"
+      },
+      {
+        "nombre": "Matematicas",
+        "id": "cd26"
+      },
+      {
+        "nombre": "Fisica",
+        "id": "ef36"
+      }
+    ],
+    "notaPorMateria": [
+      {
+        "materia": {
+          "nombre": "Naturales",
+          "id": "ab16"
+        },
+        "nota": 8
+      },
+      {
+        "materia": {
+          "nombre": "Matematicas",
+          "id": "cd26"
+        },
+        "nota": 9
+      },
+      {
+        "materia": {
+          "nombre": "Fisica",
+          "id": "ef36"
+        },
+        "nota": 5
+      }
+    ],
+    "promedioGeneral": 7.333333333333333
+  },
+  {
+    "nombre": "juan",
+    "apellido": "perez",
+    "fechaDeNacimiento": "1885-11-04T03:53:48.000Z",
+    "dni": 2566997,
+    "id": "9a1247e",
+    "curso": {
+      "nombre": "Sexto",
+      "materias": [
+        {
+          "nombre": "Ntics",
+          "id": "wd07"
+        },
+        {
+          "nombre": "Fip",
+          "id": "zb18"
+        },
+        {
+          "nombre": "Administracion",
+          "id": "yg28"
+        },
+        {
+          "nombre": "Comunicacion",
+          "id": "pn38"
+        }
+      ]
+    },
+    "materiasMatriculado": [
+      {
+        "nombre": "Ntics",
+        "id": "wd07"
+      },
+      {
+        "nombre": "Fip",
+        "id": "zb18"
+      }
+    ],
+    "notaPorMateria": [
+      {
+        "materia": {
+          "nombre": "Ntics",
+          "id": "wd07"
+        },
+        "nota": 10
+      },
+      {
+        "materia": {
+          "nombre": "Fip",
+          "id": "zb18"
+        },
+        "nota": 8
+      }
+    ],
+    "promedioGeneral": 9
+  }
+]
